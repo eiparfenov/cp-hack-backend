@@ -20,7 +20,7 @@
 Есть два варианта для локального завпуска сервиса:
 1. Склонировать репозиторий и запустить в режиме разработки:
 ```bash
-git clone
+git clone https://github.com/eiparfenov/cp-hack-backend.git
 cd web-api
 dotnet run
 ```
